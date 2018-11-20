@@ -21,4 +21,4 @@ docker-compose down
 ```
 docker-compose run rails bundle install
 ```
-- schemaファイルの追加・変更後(redgepole)
+- schemaファイルの追加・変更後(ridgepole)
